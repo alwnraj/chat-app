@@ -6,6 +6,7 @@ Live chat room created with Flask and SocketIO
 Running locally
 ```bash
 git clone git@github.com:alwnraj/chat-app.git
+cd chat-app
 pip install -r requirements.txt
 python main.py
 ```
